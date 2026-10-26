@@ -1,55 +1,43 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Brian%20David%20Calero&fontSize=42&fontColor=ffffff&desc=Contador%20P%C3%BAblico%20%26%20QA%20Tester&descSize=20&descAlignY=72" alt="Brian David Calero — Contador Público & QA Tester" />
-</p>
+# Brian David Calero Torres
+**Contador Público · QA Tester** · Colombia
 
-<p align="center">
-  <a href="https://linkedin.com/in/davidcalero-qa-publicaccountant"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:portafolio.financiero.info@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" /></a>
-  <img src="https://komarev.com/ghpvc/?username=portafoliofinancieroinfo-lgtm&label=Profile%20views&color=blueviolet&style=flat" alt="Visitas al perfil" />
-</p>
+Soy Contador Público con más de 3 años de experiencia en contabilidad, auditoría
+y control financiero, y QA Tester formado en TripleTen. Valido sistemas y
+procesos financieros con criterio contable: no me quedo en encontrar el error,
+busco el riesgo contable que hay detrás.
 
----
+## Repositorios
 
-### 🧑‍💼 Sobre mí
-
-Contador Público con 3+ años en contabilidad, auditoría y control financiero, formado como **QA Tester** en TripleTen.
-Valido sistemas y procesos financieros con criterio contable: no solo encuentro el error, sino el riesgo contable detrás del error.
-
-- 🔭 Actualmente trabajo como Analista Contable en INLOGISTIC SAS y practico QA sobre software financiero y ERP contable.
-- 🧪 Casos de prueba, pruebas funcionales y de regresión, APIs REST con Postman y automatización con Python, Pytest y Selenium (POM).
-- 📊 Detecté ~$300 millones en sobrepago de ReteICA y documenté 8+ procedimientos contables bajo ISO 9001.
-- 🌎 Puerto Carreño, Colombia · Inglés B1 · Abierto a trabajo remoto.
-- 📫 [portafolio.financiero.info@gmail.com](mailto:portafolio.financiero.info@gmail.com)
-
----
-
-### 🛠️ Lenguajes y herramientas
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,selenium,postman,postgres,git,github,html,css,js&theme=dark" alt="Herramientas" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" height="48" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" height="48" />
-  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP" height="48" />
-</p>
-
----
-
-### 📂 Proyectos
-
-| Repositorio | Qué es |
+| Repositorio | Contenido |
 |---|---|
-| [Portafolio-QA](https://github.com/portafoliofinancieroinfo-lgtm/Portafolio-QA) | Casos de prueba, reporte de defectos y automatización (Selenium, POM, pytest) con foco en software financiero. |
-| [Bootcamp-QA](https://github.com/portafoliofinancieroinfo-lgtm/Bootcamp-QA) | Prácticas de QA: Selenium + POM y testing de APIs con pytest. |
-| [Portafolio-Contable](https://github.com/portafoliofinancieroinfo-lgtm/Portafolio-Contable) | Servicios contables respaldados por casos reales. |
-| [Work_Finder](https://github.com/portafoliofinancieroinfo-lgtm/Work_Finder) | Tablero Kanban de búsqueda de empleo en un solo HTML. |
+| [Portafolio-QA](https://github.com/portafoliofinancieroinfo-lgtm/Portafolio-QA) | Pruebas a tres APIs públicas: 52 casos de prueba y 28 bugs documentados, con suites automatizadas en Python y pytest. |
+| [Portafolio-Contable](https://github.com/portafoliofinancieroinfo-lgtm/Portafolio-Contable) | Servicios contables respaldados por casos reales: puesta al día, conciliaciones, tributario, auditoría e ISO 9001. |
+| [Bootcamp-QA](https://github.com/portafoliofinancieroinfo-lgtm/Bootcamp-QA) | Prácticas de QA: automatización web con Selenium y Page Object Model, y pruebas de API con pytest. |
+| [Work_Finder](https://github.com/portafoliofinancieroinfo-lgtm/Work_Finder) | Tablero Kanban de búsqueda de empleo en un solo archivo HTML, sin build ni backend. |
 
----
+## Resultados
 
-### 🔥 Mis estadísticas
+- Detecté una base de ReteICA mal liquidada y evité un sobrepago de ~$300 millones.
+- Reconstruí la contabilidad de un año completo (3.000+ documentos) en un mes, cumpliendo exógena y renta.
+- Diseñé desde cero el esquema de auditoría interna de una empresa por ciclo contable.
+- Documenté más de 8 procedimientos contables bajo ISO 9001.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=portafoliofinancieroinfo-lgtm&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=portafoliofinancieroinfo-lgtm&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
-</p>
+## Herramientas
+
+| Área | Herramientas |
+|---|---|
+| QA | Postman, pytest, requests, Selenium WebDriver, Jira, pruebas manuales y exploratorias |
+| Desarrollo | Python, SQL, Git, HTML, CSS |
+| Contabilidad | SAP, Siigo, World Office, Excel avanzado |
+
+## Formación
+
+- Contador Público — Fundación de Educación Superior San José (2022)
+- Aseguramiento de Calidad de Software (QA) — TripleTen (2025 – 2026)
+- Diplomado en Revisoría Fiscal basada en NIA (2024)
+- Diplomado en Sistemas Integrados de Gestión (2026)
+- Inglés B1
+
+## Contacto
+
+portafolio.financiero.info@gmail.com · [LinkedIn](https://www.linkedin.com/in/davidcalero-qa-publicaccountant)
