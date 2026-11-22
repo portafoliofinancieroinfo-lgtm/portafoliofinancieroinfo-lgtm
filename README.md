@@ -13,7 +13,8 @@ busco el riesgo contable que hay detrás.
 | [Portafolio-QA](https://github.com/portafoliofinancieroinfo-lgtm/Portafolio-QA) | Pruebas a tres APIs públicas: 52 casos de prueba y 28 bugs documentados, con suites automatizadas en Python y pytest. |
 | [Portafolio-Contable](https://github.com/portafoliofinancieroinfo-lgtm/Portafolio-Contable) | Servicios contables respaldados por casos reales: puesta al día, conciliaciones, tributario, auditoría e ISO 9001. |
 | [Bootcamp-QA](https://github.com/portafoliofinancieroinfo-lgtm/Bootcamp-QA) | Prácticas de QA: automatización web con Selenium y Page Object Model, y pruebas de API con pytest. |
-| [Work_Finder](https://github.com/portafoliofinancieroinfo-lgtm/Work_Finder) | Tablero Kanban de búsqueda de empleo en un solo archivo HTML, sin build ni backend. |
+| [Work_Finder](https://github.com/portafoliofinancieroinfo-lgtm/Work_Finder) | CRM local de postulaciones de empleo en Python y SQLite operado con Claude Code: puntaje por criterios, borradores, seguimientos y autorización registrada. |
+| [skills-and-rules](https://github.com/portafoliofinancieroinfo-lgtm/skills-and-rules) | Colección portable de skills y reglas para agentes de IA (Antigravity / Gemini, Claude Code, Codex y Cursor): prototipos comentables y enrutamiento multi-modelo. |
 
 ## Resultados
 
@@ -27,7 +28,8 @@ busco el riesgo contable que hay detrás.
 | Área | Herramientas |
 |---|---|
 | QA | Postman, pytest, requests, Selenium WebDriver, Jira, pruebas manuales y exploratorias |
-| Desarrollo | Python, SQL, Git, HTML, CSS |
+| Desarrollo | Python, SQL, SQLite, Git, HTML, CSS |
+| Agentes de IA | Claude Code, Antigravity / Gemini, Codex, Cursor (skills, reglas y hooks) |
 | Contabilidad | SAP, Siigo, World Office, Excel avanzado |
 
 ## Formación
